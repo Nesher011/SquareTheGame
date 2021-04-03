@@ -1,0 +1,101 @@
+﻿  Source.cpp
+D:\Square\Project1\Source.cpp(149,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(149,36): warning C4244:         with
+D:\Square\Project1\Source.cpp(149,36): warning C4244:         [
+D:\Square\Project1\Source.cpp(149,36): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(149,36): warning C4244:         ]
+D:\Square\Project1\Source.cpp(152,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(152,50): warning C4244:         with
+D:\Square\Project1\Source.cpp(152,50): warning C4244:         [
+D:\Square\Project1\Source.cpp(152,50): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(152,50): warning C4244:         ]
+D:\Square\Project1\Source.cpp(152,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(152,39): warning C4244:         with
+D:\Square\Project1\Source.cpp(152,39): warning C4244:         [
+D:\Square\Project1\Source.cpp(152,39): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(152,39): warning C4244:         ]
+D:\Square\Project1\Source.cpp(155,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(155,62): warning C4244:         with
+D:\Square\Project1\Source.cpp(155,62): warning C4244:         [
+D:\Square\Project1\Source.cpp(155,62): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(155,62): warning C4244:         ]
+D:\Square\Project1\Source.cpp(155,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(155,36): warning C4244:         with
+D:\Square\Project1\Source.cpp(155,36): warning C4244:         [
+D:\Square\Project1\Source.cpp(155,36): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(155,36): warning C4244:         ]
+D:\Square\Project1\Source.cpp(158,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(158,39): warning C4244:         with
+D:\Square\Project1\Source.cpp(158,39): warning C4244:         [
+D:\Square\Project1\Source.cpp(158,39): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(158,39): warning C4244:         ]
+D:\Square\Project1\Source.cpp(176,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Square\Project1\Source.cpp(179,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(179,48): warning C4244:         with
+D:\Square\Project1\Source.cpp(179,48): warning C4244:         [
+D:\Square\Project1\Source.cpp(179,48): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(179,48): warning C4244:         ]
+D:\Square\Project1\Source.cpp(179,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(179,28): warning C4244:         with
+D:\Square\Project1\Source.cpp(179,28): warning C4244:         [
+D:\Square\Project1\Source.cpp(179,28): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(179,28): warning C4244:         ]
+D:\Square\Project1\Source.cpp(180,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(180,49): warning C4244:         with
+D:\Square\Project1\Source.cpp(180,49): warning C4244:         [
+D:\Square\Project1\Source.cpp(180,49): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(180,49): warning C4244:         ]
+D:\Square\Project1\Source.cpp(180,29): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(180,29): warning C4244:         with
+D:\Square\Project1\Source.cpp(180,29): warning C4244:         [
+D:\Square\Project1\Source.cpp(180,29): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(180,29): warning C4244:         ]
+D:\Square\Project1\Source.cpp(190,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(190,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(208,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(208,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(246,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(246,75): warning C4244:         with
+D:\Square\Project1\Source.cpp(246,75): warning C4244:         [
+D:\Square\Project1\Source.cpp(246,75): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(246,75): warning C4244:         ]
+D:\Square\Project1\Source.cpp(246,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(246,45): warning C4244:         with
+D:\Square\Project1\Source.cpp(246,45): warning C4244:         [
+D:\Square\Project1\Source.cpp(246,45): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(246,45): warning C4244:         ]
+D:\Square\Project1\Source.cpp(252,77): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(252,77): warning C4244:         with
+D:\Square\Project1\Source.cpp(252,77): warning C4244:         [
+D:\Square\Project1\Source.cpp(252,77): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(252,77): warning C4244:         ]
+D:\Square\Project1\Source.cpp(252,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(252,50): warning C4244:         with
+D:\Square\Project1\Source.cpp(252,50): warning C4244:         [
+D:\Square\Project1\Source.cpp(252,50): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(252,50): warning C4244:         ]
+D:\Square\Project1\Source.cpp(259,83): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(259,83): warning C4244:         with
+D:\Square\Project1\Source.cpp(259,83): warning C4244:         [
+D:\Square\Project1\Source.cpp(259,83): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(259,83): warning C4244:         ]
+D:\Square\Project1\Source.cpp(259,52): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(259,52): warning C4244:         with
+D:\Square\Project1\Source.cpp(259,52): warning C4244:         [
+D:\Square\Project1\Source.cpp(259,52): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(259,52): warning C4244:         ]
+D:\Square\Project1\Source.cpp(351,44): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(351,44): warning C4244:         with
+D:\Square\Project1\Source.cpp(351,44): warning C4244:         [
+D:\Square\Project1\Source.cpp(351,44): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(351,44): warning C4244:         ]
+D:\Square\Project1\Source.cpp(355,68): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(355,68): warning C4244:         with
+D:\Square\Project1\Source.cpp(355,68): warning C4244:         [
+D:\Square\Project1\Source.cpp(355,68): warning C4244:             T=unsigned int
+D:\Square\Project1\Source.cpp(355,68): warning C4244:         ]
+D:\Square\Project1\Source.cpp(417,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(421,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(425,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Square\Project1\Source.cpp(429,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\Square\Project1\Debug\Square the game.exe
